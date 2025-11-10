@@ -1,16 +1,17 @@
-## Hi there 👋
+<center># Привет, я Влад! 👋</center>
 
-<!--
-**VladislavAndDem/VladislavAndDem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center># Java backend разработчик!</center>
 
-Here are some ideas to get you started:
+## Мой стек технологий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Языки:** Java, SQL.
+* **Фреймворки:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate.
+* **Базы данных:** PostgreSQL.
+* **Инструменты:** Maven, Git, Docker, IntelliJ IDEA.
+* **Тестирование:** JUnit, Mockito.
+* **API:** REST, Swagger/OpenAPI.
+
+## Мои контакты
+
+* Telegram: @VlaDemidenko
+* Email: vlad.demidenko.2017@mail.ru
